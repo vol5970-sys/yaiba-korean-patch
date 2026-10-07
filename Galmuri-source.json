@@ -1,0 +1,9 @@
+{
+  "family": "Galmuri11-Condensed",
+  "version": "2.40.3",
+  "source": "https://github.com/quiple/galmuri/blob/v2.40.3/dist/Galmuri11-Condensed.bdf",
+  "sha256": "5c19d39413241e272810e115ee810feaea6c4b5684bfa3e17a98ef1cb3a7df63",
+  "license": "SIL Open Font License 1.1",
+  "copyright": "Copyright (c) 2019–2025 Lee Minseo (quiple@quiple.dev)",
+  "rendering": "Native BDF pixels, 8x16 cells, one-pixel game subtitle outline"
+}

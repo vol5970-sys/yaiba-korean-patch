@@ -1,0 +1,14 @@
+﻿검용전설 야이바 한글화 패치 v0.9
+
+파일: Yaiba_Korean_v0.9.ips
+대상: Kenyuu Densetsu Yaiba (Japan), 헤더 없음, 1,572,864바이트
+원본 SHA-256: 8511950f35be6bc2afd4a8dc2cf7fcbb73a98f42391cb07b7d062a91eff4ba51
+패치 적용 결과 SHA-256: 2e403bcc3424472c667ca4c212f513de2044743057f7471a5b42c9cbed4ad5eb
+
+IPS 지원 도구로 일본판 원본에 패치를 적용한 뒤, 생성된 ROM을 새로 실행하세요.
+기존 진행은 에뮬레이터 재시작 후 게임 내 이어하기로 불러오세요.
+원본 ROM과 패치 적용된 ROM은 포함하지 않습니다.
+v0.9는 개발판이며 미발견 일본어·화면 문제가 남아 있을 수 있습니다.
+
+프로젝트: https://github.com/vol5970-sys/yaiba-korean-patch
+글꼴 라이선스와 비교 사진은 동봉 파일을 참고하세요.
